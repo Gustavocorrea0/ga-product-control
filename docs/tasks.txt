@@ -1,0 +1,2 @@
+1 - manipular planilha
+2 - realizar CRUD

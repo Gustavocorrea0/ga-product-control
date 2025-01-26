@@ -1,0 +1,16 @@
+> idea
+> data
+    - data.xlsx
+> docs 
+    > diagrams
+    - estrutura.txt
+    - libs.txt 
+    - tasks.txt
+> src 
+    > controller
+    > img 
+    > model 
+        - item.py
+    > view
+        - main.py
+> test 
